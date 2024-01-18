@@ -1,0 +1,19 @@
+{
+  "name": "Social-Media-Api",
+  "version": "1.0",
+  "description": "Social Media Api",
+  "main": "server.js",
+  "license": "None",
+  "scripts": {
+    "seed": "node utils/seed",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
