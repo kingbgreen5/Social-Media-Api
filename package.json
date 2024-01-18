@@ -5,9 +5,9 @@
   "main": "server.js",
   "license": "None",
   "scripts": {
-    "seed": "node utils/seed",
-    "start": "node index",
-    "dev": "nodemon index"
+    "seed": "node utilities/seed",
+    "start": "node server",
+    "dev": "nodemon"
   },
   "dependencies": {
     "mongoose": "^7.0.2",
