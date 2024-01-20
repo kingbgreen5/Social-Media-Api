@@ -42,7 +42,7 @@ The following animation shows GET routes to return all users and all thoughts be
 
 The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
-![Demo that shows GET routes to return a single user and a single thought being tested in Insomnia.](./Assets/18-nosql-homework-demo-02.gif)
+![Demo that shows GET routes to return a single user and a single tho ught being tested in Insomnia.](./Assets/18-nosql-homework-demo-02.gif)
 
 The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 

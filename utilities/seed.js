@@ -25,11 +25,13 @@ connection.once('open', async () => {
   },
   {
     'username': 'layfayetteGreen',
-    'email':'thegreenone@email.com'
+    'email':'thegreenone@email.com',
+ 
   },
   {
     'username': 'floydChickasaw',
-    'email':'flyinfloydchickasaw@email.com'
+    'email':'flyinfloydchickasaw@email.com',
+
   }
   ];
 
